@@ -68,4 +68,5 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 
 ### Conditions
 
-* Only owners may delete your products
+* Only owners may update/delete your products
+* Only Administrators and creators projects may update/delete your products
