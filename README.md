@@ -64,7 +64,7 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 | Get billing details | ✅ | ❌ | ✅ | ❌ | 
 | Export billing details | ✅ | ❌ | ✅ | ❌ |
 
-✅=allowed ❌=not allowed ⚠️=allowed w/ conditions
+> ✅=allowed ❌=not allowed ⚠️=allowed w/ conditions
 
 ### Conditions
 
