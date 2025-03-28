@@ -57,7 +57,7 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 | Update users | ✅ | ✅ | ❌ | ❌ |
 | List users | ✅ | ✅ | ✅ | ❌ |
 | Delete users | ✅ | ❌ | ❌ | ❌ |
-| Create products | ✅ | ❌ | ❌ | ❌ |
+| Create products | ✅ | ✅ | ❌ | ❌ |
 | List products   | ✅ | ✅ | ✅ | ✅ |
 | Update products | ✅ | ❌ | ❌ | ❌ | 
 | Delete products | ✅ | ⚠️ | ❌ | ❌ |
