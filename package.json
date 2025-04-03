@@ -9,10 +9,12 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/http/server.ts",
-    "build": "tsc --build src"
+    "build": "tsc --build src/"
   },
   "dependencies": {
-    "fastify": "^5.2.1"
+    "@fastify/postgres": "^6.0.2",
+    "fastify": "^5.2.1",
+    "pg": "^8.14.1"
   },
   "devDependencies": {
     "@types/node": "^22.13.13",
